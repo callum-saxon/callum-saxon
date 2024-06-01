@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **multiple applications from my studies**
 
-- 🌱 I’m currently learning **Java, C++**
-
 - 👨‍💻 All of my projects are available at [callumsaxon.com](callumsaxon.com)
 
 - 📫 How to reach me **saxoncallum@gmail.com**
